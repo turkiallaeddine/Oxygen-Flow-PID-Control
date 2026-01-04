@@ -21,7 +21,7 @@ and stable flow delivery.
 The closed-loop system was simulated in MATLAB (scripts) and
 Simulink (model) to analyze performance. Step response and PID tuning
 were validated in both environments.
-<img src="results/step_response.png" alt="Step Response" width="600" height="300"/>
+<img src="results/step_response.jpg" alt="Step Response" width="600" height="300"/>
 
 ## Block Diagram
 The system structure is illustrated in docs/block_diagram.png
