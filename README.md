@@ -8,6 +8,8 @@ regulation subsystem used in medical oxygen concentrators.
 
 ## Medical Device Image
 <img src="docs/oxygen_concentrator.jpg" alt="Oxygen Concentrator" width="400"/>
+
+
 ## System Modeling
 The oxygen flow control valve was modeled as a first-order dynamic system
 based on typical response characteristics reported in biomedical device literature.
