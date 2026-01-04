@@ -17,8 +17,6 @@ title('PID Control of Oxygen Flow Rate');
 xlabel('Time (s)');
 ylabel('Flow Rate (L/min)');
 
-% Save result
-saveas(gcf, '../results/step_response.png')
 
 % Performance metrics
 stepinfo(sys_cl)
