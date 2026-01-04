@@ -1,8 +1,13 @@
+
 # Oxygen-Flow-PID-Control
 
  ## Project Overview
 This project presents the modeling and PID control of an oxygen flow
 regulation subsystem used in medical oxygen concentrators.
+
+
+## Medical Device Image
+![Oxygen Concentrator](docs/oxygen_concentrator.png)
 
 ## System Modeling
 The oxygen flow control valve was modeled as a first-order dynamic system
